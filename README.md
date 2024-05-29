@@ -1,9 +1,9 @@
-# USAPLATETOVIN-API
+# USA PLATE TO VIN - API
 USAPLATETOVINAPI
 https://rapidapi.com/uponatime24/api/usa-plate-to-vin-more/details
 
 developers evaluate your API at https://rapidapi.com/uponatime24/api/usa-plate-to-vin-more/details
-README
+
 Endpoints GET 'https://usa-plate-to-vin-more.p.rapidapi.com/platetovin/'
 /platetovin/plate-state
 Method: GET
