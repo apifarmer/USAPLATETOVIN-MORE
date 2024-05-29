@@ -1,7 +1,6 @@
 # USAPLATETOVIN-API
 USAPLATETOVINAPI
 https://rapidapi.com/uponatime24/api/usa-plate-to-vin-more/details
-https://rapidapi.com/uponatime24/api/usa-plate-to-vin-more/details
 
 developers evaluate your API at https://rapidapi.com/uponatime24/api/usa-plate-to-vin-more/details
 README
